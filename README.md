@@ -8,6 +8,12 @@ Foi utilizado o modelo [EfficientNetB0](https://keras.io/api/applications/effici
 
 Este trabalho foi baseado [neste outro trabalho encontrado publicamente no Kaggle e realizado por Sanphat Sangudsup](https://www.kaggle.com/code/sanphats/tuberculosis-classification-densenet121-gradcam/notebook#Grad-cam-evaluation) 
 
+### Como executar
+
+É recomendado fazer upload do arquivo Jupyter Notebook, de formato .ipynb, para o Google Colab e executar o código lá, pois, o trabalho final foi implementado utilizando Tensorflow e requer uma GPU NVIDIA com suporte a CUDA cores para poder executar localmente. Lembre-se de trocar o runtime environment do Google Colab para a GPU T4, caso contrário a execução será extremamente lenta.
+
+O trabalho de anomalias pode ser executado localmente na sua máquina. Confira as bibliotecas importadas em cada notebook para instalar as dependências necessárias.
+
 # ANEXO A
 
 Reconhecimentos e Direitos Autorais
