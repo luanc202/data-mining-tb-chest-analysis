@@ -1,4 +1,12 @@
+# Trabalho Final para a turma de Mineração de Dados
 
+## Descrição
+
+Este trabalho consiste na aplicação de um modelo de Rede Neural Convolucional para classificação de imagens de Raios-X de tórax de pacientes saudáveis e de pacientes com Tuberculose.
+
+Foi utilizado o modelo [EfficientNetB0](https://keras.io/api/applications/efficientnet/) e aplicado o aumnento de dados usando a biblioteca [ImageDataGenerator](https://keras.io/api/preprocessing/image/#imagedatagenerator-class).
+
+Este trabalho foi baseado [neste outro trabalho encontrado publicamente no Kaggle e realizado por Sanphat Sangudsup](https://www.kaggle.com/code/sanphats/tuberculosis-classification-densenet121-gradcam/notebook#Grad-cam-evaluation) 
 
 # ANEXO A
 
